@@ -64,7 +64,6 @@ public class SistemaTickets {
             }
             actual = actual.siguiente;
         }
-
         System.out.println("El ticket está pendiente o no existe.");
     }
 }

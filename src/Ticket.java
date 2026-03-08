@@ -19,7 +19,6 @@ public class Ticket implements Comparable<Ticket> {
         this.fechaResolucion = null;
     }
 
-
     public int getId() {
         return id;
     }
